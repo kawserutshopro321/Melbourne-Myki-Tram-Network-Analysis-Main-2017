@@ -1,4 +1,4 @@
-<div align="center">
+<img width="639" height="850" alt="image" src="https://github.com/user-attachments/assets/8af0d9f9-e368-439a-983e-bb1174b02208" /><div align="center">
 🚋 Melbourne Myki Tram Network Analysis (2017)
  
 ### A comprehensive data analytics study of Melbourne's tram patronage using Myki smart card transaction data
@@ -21,12 +21,14 @@
  
 </div>
 ---
- 
+<img width="639" height="850" alt="image" src="https://github.com/user-attachments/assets/cbf01728-1cb5-4a68-91df-51a9f7b7ac5e" />
+
+
 ## 📌 Overview
  
 This project presents a complete end-to-end data analysis of Melbourne's tram network using **Myki smart card transaction data** spanning the full 2017 calendar year. Starting from raw touch-on and touch-off transaction files, the analysis builds an enriched, joined trip table and then conducts **10 analytical investigations** covering temporal demand patterns, stop and route-level performance, data quality assessment, passenger segmentation, and journey profiling.
  
-The work was produced as part of the **SIT731 (Postgraduate Data Analysis) unit at Deakin University** and is structured to deliver operationally actionable insights for transport planners, network operators, and revenue analysts.
+
  
 > **Scope:** 1 January 2017 – 6 January 2018 | 20 highest-patronage tram routes | Metropolitan Melbourne
  
