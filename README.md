@@ -1,4 +1,4 @@
-<img width="639" height="850" alt="image" src="https://github.com/user-attachments/assets/8af0d9f9-e368-439a-983e-bb1174b02208" /><div align="center">
+
 🚋 Melbourne Myki Tram Network Analysis (2017)
  
 ### A comprehensive data analytics study of Melbourne's tram patronage using Myki smart card transaction data
