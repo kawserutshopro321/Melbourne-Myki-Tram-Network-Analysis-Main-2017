@@ -1,5 +1,5 @@
 <div align="center">
-# 🚋 Melbourne Myki Tram Network Analysis (2017)
+🚋 Melbourne Myki Tram Network Analysis (2017)
  
 ### A comprehensive data analytics study of Melbourne's tram patronage using Myki smart card transaction data
  
