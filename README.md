@@ -405,8 +405,6 @@ ScanOffTransaction.csv ───────────────────
 Business Intelligence Analyst | Data Analytics
  
 - 🔗 GitHub: [@kawserutshopro321](https://github.com/kawserutshopro321)
-- 🎓 Unit: SIT731 — Postgraduate Data Analysis, Deakin University
-- 📧 s225586507@deakin.edu.au
 ---
  
 ## 📄 License
